@@ -1,7 +1,0 @@
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Resources.resources
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\obj\Debug\DXApplication1.vbproj.GenerateResource.Cache
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
-Z:\Projekte\Styletronix\VS Projekte\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
