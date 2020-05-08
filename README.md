@@ -1,7 +1,9 @@
 # MidiTimecode
 VB.NET Module to send and receive MIDI Timecode as per definition in Wikipedia https://en.wikipedia.org/wiki/MIDI_timecode
 
-The file "MidiFunctions.vb" contains everything needed to send and receive timecode. There are no external dependencies reqired.
+It can also send and receive other midi commands.
+
+The file "MidiFunctions.vb" contains everything needed to send and receive timecode. There are no external dependencies.
 
 
 
